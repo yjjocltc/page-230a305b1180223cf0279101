@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.lvtuff.com/sitemap.xml
